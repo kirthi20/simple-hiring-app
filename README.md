@@ -1,6 +1,6 @@
-# simple-hiring-app
+# simple hiring app
 
-This is a simple hiring app created to find top candidates in a dataset. Here are some of the key functionality:
+This is a simple hiring app created to find top candidates in a dataset. Here is some of the key functionality:
 
 - Scroll through the different candidates and get a high-level sense for their experiences:
 
